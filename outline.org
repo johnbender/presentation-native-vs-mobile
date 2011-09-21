@@ -1,0 +1,34 @@
+* native / mobile web
+* native
+** the good
+*** experience
+*** speed
+*** distribution
+*** dev tools
+** the bad
+*** overhead
+*** fragmentation
+*** skillsets
+* web
+** disclaimer
+** the good
+*** single environment
+*** large developer pool
+*** web built in
+*** updates
+*** familiar tools
+** the bad
+*** slow
+*** second class
+*** browser quirks
+* when?
+** native
+*** games (?)
+*** lots of money
+*** existing experience
+*** no server
+** web
+*** short timescale
+*** existing web application
+*** web experience
+*** information centric
