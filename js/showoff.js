@@ -103,7 +103,7 @@ function centerSlides(slides) {
 function centerSlide(slide) {
 	var slide_content = $(slide).children(".content").first();
 	var height = slide_content.height();
-	var split = slide_content.find( "img" ).length > 0 ? 0.30 : 0.5;
+	var split = slide_content.find( "img" ).length > 0 ? 0.25 : 0.5;
 	var mar_top = (split * parseFloat($(slide).height())) - (split * parseFloat(height));
 	if (mar_top < 0) {
 		mar_top = 0
